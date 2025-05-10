@@ -94,4 +94,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Support
 
-For support, email mayankpratapsingh137@gmail.com or join our Slack channel.
+For support, email pragyabhatnagar@gmail.com or join our Slack channel.
